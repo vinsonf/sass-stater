@@ -1,0 +1,16 @@
+{
+  "name": "sass-stater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass -w scss:css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "sass": "^1.55.0"
+  }
+}
